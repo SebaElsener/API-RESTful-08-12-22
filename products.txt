@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Globo Terráqueo oldstyle",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 1
+  },
+  {
+    "producto": "Compás",
+    "precio": "120.87",
+    "thumbnail": "dfgfdgdfgdfgfd",
+    "id": 4
+  },
+  {
+    "product": "Transportador",
+    "precio": "200.97",
+    "thumbnail": "dfgfdgdfgdfgfdrfgdfg.jpg",
+    "id": 7
+  },
+  {
+    "product": "Pegamento",
+    "precio": "20.97",
+    "thumbnail": "dfgfdgdfgdfgfdrfgdfg.jpg",
+    "id": 8
+  },
+  {
+    "product": "Goma de borrar",
+    "precio": "10.55",
+    "thumbnail": "dfgfdgdfgdfgfdrfgdfg.jpg",
+    "id": 9
+  },
+  {
+    "product": "Lápiz HB",
+    "precio": "12.70",
+    "thumbnail": "dfgfdgdfgdfgfdrfgdfg.jpg",
+    "id": 10
+  },
+  {
+    "product": "Lápiz LB",
+    "precio": "12.70",
+    "thumbnail": "dfgfdgdfgdfgfdrfgdfg.jpg",
+    "id": 11
+  },
+  {
+    "product": "Voligoma",
+    "precio": "44.70",
+    "thumbnail": "dsfsdfdsfds",
+    "id": 12
+  }
+]
